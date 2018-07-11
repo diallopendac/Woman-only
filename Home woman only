@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Encode+Sans" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <!-- Ceci est un commentaire
+1/ LE HAUT DU SITE
+-->
+    <header>
+      <a href="index.html" class="bouton">Home</a>
+      <a href="http://www.woman-only.com">
+        <img src="C:\Users\diall\Pictures">
+      </a>
+    </header>
+
+
+    <!-- Ceci est un commentaire
+2/ LA PARTIE AVEC L'IMAGE + LA CITATION
+-->
+    <section class="accueil">
+      <h1>Bien faire un travail ne prend pas plus de temps que de le faire mal. - Paul Bocuse</h1>
+    </section>
